@@ -3,6 +3,12 @@ Hexed
 
 A roguelile game engine for hexagonal tiles
 
+Inspirations
+------------
+ * [Cataclysm - Dark Days Ahead](http://en.cataclysmdda.com/)
+ * [The crawling eater](http://www.plomlompom.de/PlomRogue/)
+ * [Amit Patel's Hexagonal Tiles Resources](http://www.redblobgames.com/grids/hexagons/)
+
 Assumptions
 -----------
  * UTF-8 font with a 2:1 height to width ratio
