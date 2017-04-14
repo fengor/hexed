@@ -1,0 +1,20 @@
+[
+    {
+        "id": "grassland",
+        "name": "grasslands",
+        "symbol": ".",
+        "color": 2
+    },
+    {
+        "id": "ocean",
+        "name": "ocean",
+        "symbol": "~",
+        "color": 4
+    },
+    {
+        "id": "mountain",
+        "name": "mountain range",
+        "symbol": "^",
+        "color": 7
+    }
+]
