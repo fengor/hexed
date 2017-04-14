@@ -1,0 +1,43 @@
+[
+    {
+        "id": "grass",
+        "name": "grass field",
+        "symbol": ".",
+        "color": 2,
+        "move_cost": 1.0,
+        "flags": ["DIGGABLE", "FLAT"]
+    },
+    {
+        "id": "water_shallow",
+        "name": "shallow water",
+        "symbol": "~",
+        "color": 12,
+        "move_cost": 2.0,
+        "flags": ["WATER","WET"]
+    },
+    {
+        "id": "water_deep",
+        "name": "deep water",
+        "symbol": "~",
+        "color": 4,
+        "move_cost": 4.0,
+        "flags": ["WATER","DEEP_WATER","SWIMMABLE","WET"]
+    },
+    {
+        "id": "hill",
+        "name": "hill",
+        "symbol": "^",
+        "color": 7,
+        "move_cost": 2.0,
+        "flags": ["DIGGABLE"]
+    },
+    {
+        "id": "mountain",
+        "name": "mountain",
+        "symbol": "^",
+        "color": 15,
+        "move_cost": 4.0,
+        "flags": ["MINABLE"]
+    }
+]
+
