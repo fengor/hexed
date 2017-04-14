@@ -8,6 +8,7 @@ Inspirations
  * [Cataclysm - Dark Days Ahead](http://en.cataclysmdda.com/)
  * [The crawling eater](http://www.plomlompom.de/PlomRogue/)
  * [Amit Patel's Hexagonal Tiles Resources](http://www.redblobgames.com/grids/hexagons/)
+ * [GoCUI](https://github.com/jroimartin/gocui/)
 
 Assumptions
 -----------
